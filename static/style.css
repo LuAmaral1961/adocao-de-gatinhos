@@ -1,0 +1,109 @@
+
+*{
+    font-family: Montserrat;
+    color: #f6f2ec;
+}
+
+header.page-header {
+    background-color: #588980;
+    height: 120px;
+    min-width: 120px;
+    text-align: center;
+    color: #f6f2ec;
+}
+
+header.page-header > h1 {
+    font-family: Merienda;
+    padding-top: 30px;
+}
+
+h2 {
+    color: #162719;
+    font-family: Montserrat;
+    text-align: center;
+    padding-top: 20px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.card_img{
+  width: 300px;
+  height: 300px;
+  margin: 25px;
+}
+
+.small_img{
+  height: 100%;
+  cursor: pointer;
+  transition: all linear 0.4s;
+}
+.small_img:hover{
+  filter: grayscale(100%);
+  transform: scale(1.1);
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-bottom: 60px;
+}
+
+div.title {
+  padding: 15px;
+  color: #162719;
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+}
+
+.detalhe {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.nome {
+  font-size:x-large;
+  font-weight: bold;
+  color: #162719;
+  padding-bottom: 20px;
+}
+
+.desc {
+  font-size: medium;
+  padding-top: 15px;
+  color: #162719;
+}
+
+.inicio {
+  width: 50px;
+  padding: 10px;
+  font-size:large;
+  background-color:rgb(190, 139, 108);
+  color: #f6f2ec;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #74a39c;
+}
+
+.footer {
+  min-width: 120px;
+  height: 50px;
+  background-color: #588980;
+  text-align: center;
+}
+
+.pets {
+  color:#f6f2ec;
+  font-size: large;
+  padding-top: 15px;
+}
