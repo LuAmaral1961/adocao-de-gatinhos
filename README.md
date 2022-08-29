@@ -5,7 +5,7 @@ Pode ser baixado do site https://python.org.br/
 
 Clonar o projeto através da linha de comando:
 
-git clone https://github.com/LuAmaral/adocao-de-gatinhos.git
+git clone https://github.com/LuAmaral1961/adocao-de-gatinhos.git
 
 Instalar o virtualenv, para criar um ambiente python para o projeto:
 
